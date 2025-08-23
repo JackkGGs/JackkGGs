@@ -11,5 +11,6 @@ I have 6 years worth of Lua Knowledge and 2 years worth of Python Knowledge.
   - Fun little Discord Bot (Based on Python)
 
 <p></p>
+
 ### Work in Progress
   - EFJob: a simple job recruiter established on Discord and is based on Google's Gemini 2.5 Flash-Lite model. It has custom randomised (offset by the target value by around 2 or 3 values) parameters, resulting in a not-so-robotic experience.

@@ -9,6 +9,8 @@ I have 6 years worth of Lua Knowledge and 2 years worth of Python Knowledge.
   - Chatbot based on Llama Vision 3 (Via Together.AI) with Image Recognition System based on OpenCV (YOLOv3-Pt)
   - Translation System (within Command Line input)
   - Fun little Discord Bot (Based on Python)
+  - [EfJobR](https://github.com/JackkGGs/EfJobR): a simple job recruiter established on Discord and is based on Google's Gemini 2.5 Flash-Lite model. It has randomised parameters, resulting in a not-so-robotic experience.
+
 
 ### Work in Progress
-  - [EfJobR](https://github.com/JackkGGs/EfJobR): a simple job recruiter established on Discord and is based on Google's Gemini 2.5 Flash-Lite model. It has custom randomised (offset by the target value by around 2 or 3 values) parameters, resulting in a not-so-robotic experience.
+- (none yet)
